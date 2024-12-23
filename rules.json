@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rule1",
+    "title": "قوانين الدسكورد",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "rule2",
+    "title": "القوانين العامه",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "rule3",
+    "title": "قوانين الاجرام",
+    "description": "data/file3.txt"
+  },
+  {
+    "id": "rule4",
+    "title": "قوانين المطعم",
+    "description": "data/file4.txt"
+  },
+  {
+    "id": "rule5",
+    "title": "المناطق الأمنه",
+    "description": "data/file5.txt"
+  },
+  {
+    "id": "rule6",
+    "title": "Warn and Banned System",
+    "description": "data/file6.txt"
+  },
+  {
+    "id": "rule7",
+    "title": "test 3",
+    "description": "data/file7.txt"
+  }
+]

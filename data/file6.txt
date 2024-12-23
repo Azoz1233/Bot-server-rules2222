@@ -1,0 +1,23 @@
+```md
+[4](Warn Banned 6-12 h )
+```
+
+```md
+[4](@Warn 1 Banned 1 Da 4 Point)
+```
+
+```md
+[4](@Warn 2 Banned 3 Days 10 Point)
+```
+
+```md
+[4](@Warn 3 Banned 7 Days + reavtive 15 Point)
+```
+
+```md
+[4](@Banned ( نهائي مع احقية طلب فرصة عند مرور كل شهر ) 30 Point )
+```
+
+```md
+[4](@Banned Perm)
+```
